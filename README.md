@@ -1,1 +1,0 @@
-# V2ry-Config
